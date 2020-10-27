@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 3145,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-user-add-workspace-azure-automation-powershell-workflow-runbook/master/Hornbill_UserAddWorkspace_Workflow.ps1",
+    "DownloadCount": 684,
+    "Id": "Hornbill-User-Add-88b05170",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 517,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow runbook to add a user to a workspace within a Hornbill Instance",
+    "Title": "Hornbill User Add Workspace - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-user-add-workspace-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
